@@ -1,11 +1,20 @@
-# Code settings
+# My settings
 
-Settings that I'm currently using on VSCode Editor, terminal and dev related stuff
+Settings that I'm currently using on VSCode Editor, terminal and dev related stuff.   
+<br>
 
-### VSCode Extensions
-Fluent Icons
-Moxer Icons
-WSL
-Code Runner
-Code Snap
-Live Server
+## Links
+
+### Editor
+- VSCode   
+
+### Fonts
+- Fira Code   
+- JetBrains Mono   
+- Meslo   
+
+### Terminal
+- Oh My Zsh
+- zsh-autosuggestions
+- zsh-completions
+- zsh-syntax-highlighting
