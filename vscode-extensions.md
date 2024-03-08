@@ -8,4 +8,5 @@
 - Code Runner   
 - Code Snap   
 - Live Server
-- ESLint   
+- ESLint
+- EditorConfig
