@@ -7,4 +7,5 @@
 - WSL   
 - Code Runner   
 - Code Snap   
-- Live Server   
+- Live Server
+- ESLint   
