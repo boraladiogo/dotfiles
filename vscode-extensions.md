@@ -10,3 +10,4 @@
 - Live Server
 - ESLint
 - EditorConfig
+- Docker
